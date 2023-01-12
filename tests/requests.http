@@ -1,0 +1,8 @@
+###
+GET localhost:8081/get-items
+
+###
+GET localhost:8081/get-items?id=8888
+
+###
+GET localhost:8081/get-items?id=3519&id=3519
